@@ -1,4 +1,4 @@
-module github.com/googleapis/google-cloud-go-testing
+module github.com/dadjeibaah/google-cloud-go-testing
 
 require (
 	cloud.google.com/go v0.36.0
